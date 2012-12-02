@@ -1,0 +1,12 @@
+human:eat;bread#drink;water%
+organism:%is something with living cells
+animals:eat;other animals#drink;water%
+chickens:eat;bird feed%are a type of animal%
+cars:%are used for transportation
+robots:eat;nothing#drink;nothing%are human created machines
+house:eat;nothing%it is a place humans live
+computer:harddrive;is the memory of a computer%is a device used to make humans lives easier
+english:language;is a way humans communicate%is a language used to communicate between humans
+your:name;is robotalk%
+my:name;is tim%
+plant:%is green

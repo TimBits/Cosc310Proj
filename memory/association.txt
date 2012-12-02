@@ -1,0 +1,58 @@
+0;human:1,2,30
+1;organism
+2;living being
+3;tree:4,27
+4;plant
+5;hi:6
+6;hey:5,7
+7;hello:6,12
+8;like:9
+9;love:8
+10;dislike:11
+11;hate:10
+12;greetings:7,13
+13;hows it going:12,14
+14;good morning:13,15
+15;good afternoon:14
+16;feelings:17
+17;emotions:16
+18;bye:19
+19;goodbye:18,20
+20;cya:19,21
+21;later:20,22
+22;goodnight:21,23
+23;see you later:22,24
+24;nice talking to you:23
+25;bicycle:26
+26;bike:25
+27;large plant
+28;vehicle
+29;car:28
+30;smart mammal:0
+31;large vehicle
+32;truck:31,28
+33;woods
+34;forest:33
+35;woman:0
+36;man:0
+37;yo:5
+38;whats up:5
+39;robot:40
+40;robotalk:39
+41;thank you:42
+42;thanks:41
+43;cool
+44;nice:43
+45;ello:7
+46;correct
+47;right:46
+48;that is:49
+49;thats:48
+50;incorrect:51
+51;wrong:50
+52;ya:53
+53;yes:52,54
+54;yup:53
+55;no:56
+56;nope:55,57
+57;na:56

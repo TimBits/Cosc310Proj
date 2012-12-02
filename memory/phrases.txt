@@ -1,0 +1,30 @@
+#1
+hi:hi/hi human;2
+hi robotalk:hi/hi human;2
+#2
+hi:you already greeted me/dont humans only greet each other once/we have already started a conversation;2
+hi robotalk:i already greeted you/dont humans only greet eachother once/we have already started a conversation;2
+i like robotalk:i neither like nor dislike you/thanks/i would like you back but i dont have feelings;2
+i dislike robotalk:i may not be usefull but thats not a reason to hate me/i am just a robot/robots dont have feelings so you can not hurt me;2
+do you like me:i am a robot i can not like nor dislike you/i would if i could;2
+the weather is nice today:are you trying to small talk with me/i wouldnt know;2
+robotalk is my hero:thats great to hear/i guess i am awesome/really;2
+cool:i guess/it is/very;2
+wow:it is amazing/it is interesting;2
+thats good:yes it is/yup;2
+really:yes/no;2
+that sucks:yup/not really;2
+thats correct:thanks/cool/awesome;2
+thats incorrect:oops/oh well;2
+correct:thanks/cool/awesome;2
+incorrect:oops/oh well;2
+ya:okay;2
+no:Oh, okay;2
+fuck off:harsh language can not harm me/thats rude/how rude;3
+fuck robotalk:harsh language can not harm me/thats rude/how rude;3
+robotalk is gay:thats rude/how rude;3
+robotalk is dumb:thats rude/how rude;3
+robotalk are dumb:thats rude/how rude;3
+robotalk are gay:thats rude/how rude;3
+bye:bye/bye human;3
+bye robotalk:bye/bye human;3
